@@ -1,5 +1,7 @@
 # Heart Disease Prediction Using Decision Tree Classifiers
 
+![Heart Disease Prediction](heartdisease.png)
+
 ## Overview
 This project aims to predict the presence of heart disease in individuals using decision tree classifiers. The model is trained on data containing features such as age, sex, blood pressure, and cholesterol levels, and it explores different hyperparameters to improve accuracy and avoid overfitting.
 
